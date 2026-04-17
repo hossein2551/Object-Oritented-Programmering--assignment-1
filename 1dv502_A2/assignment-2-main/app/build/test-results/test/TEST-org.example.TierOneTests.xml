@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.TierOneTests" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-03-13T19:06:14" hostname="MAWLAALI" time="0.04">
+  <properties/>
+  <testcase name="propertyTest_buy_notOnTile()" classname="org.example.TierOneTests" time="0.017"/>
+  <testcase name="propertyTest_buy_noFunds()" classname="org.example.TierOneTests" time="0.001"/>
+  <testcase name="propertyTest_buy_ok()" classname="org.example.TierOneTests" time="0.0"/>
+  <testcase name="tileConstructionTest_1()" classname="org.example.TierOneTests" time="0.002"/>
+  <testcase name="tileConstructionTest_2()" classname="org.example.TierOneTests" time="0.0"/>
+  <testcase name="tileConstructionTest_3()" classname="org.example.TierOneTests" time="0.001"/>
+  <testcase name="tileConstructionTest_4()" classname="org.example.TierOneTests" time="0.0"/>
+  <testcase name="tileConstructionTest_5()" classname="org.example.TierOneTests" time="0.001"/>
+  <testcase name="tileConstructiontest_6()" classname="org.example.TierOneTests" time="0.006"/>
+  <testcase name="propertyTest_buy_hasOwner()" classname="org.example.TierOneTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
